@@ -1,10 +1,9 @@
  {
  	"name":"en弹幕",
- 	"list":["Coco ",
- 		"Hololive ",
- 		"Coco ",
- 		"Coco "
+ 	"list":[
+  "cocococo",
+  "hololive"
  	]
  }
-# en1
+
  
